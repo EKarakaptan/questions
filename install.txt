@@ -1,0 +1,10 @@
+npm init
+
+npm install -D 
+webpack 
+webpack-cli 
+webpack-dev-server 
+html-webpack-plugin 
+clean-webpack-plugin
+style-loader
+css-loader
